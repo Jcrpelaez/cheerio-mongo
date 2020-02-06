@@ -1,0 +1,26 @@
+{
+  "name": "cheerio-mongo",
+  "version": "1.0.0",
+  "description": "Web app that lets users scrap news from another site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcrpelaez/cheerio-mongo.git"
+  },
+  "author": "Juan Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcrpelaez/cheerio-mongo/issues"
+  },
+  "homepage": "https://github.com/Jcrpelaez/cheerio-mongo#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.0",
+    "mongoose": "^5.8.11"
+  }
+}
